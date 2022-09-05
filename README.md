@@ -1,2 +1,2 @@
-# HTML-CSS
-Repositório para meus exercícios de HTML-CSS
+# HTML5-CSS
+Repositório para meus exercícios de HTML4-CSS
